@@ -1,0 +1,193 @@
+﻿from,to,Type,type.y
+Altrincham,Navigation Road,metrolink,interchange
+Eccles,Victoria,railway,interchange
+Eccles,Deansgate - Castlefield,railway,interchange
+Victoria,Deansgate - Castlefield,metrolink,interchange
+Ashton-Under-Lyne,Victoria,railway,interchange
+Cornbrook,Deansgate - Castlefield,metrolink,interchange
+Shudehill,Victoria,metrolink,interchange
+Rochdale Railway Station,Rochdale,railway,railway
+Exchange Square,Victoria,metrolink,interchange
+Piccadilly Gardens,Piccadilly,metrolink,interchange
+Ashton West,Ashton-Under-Lyne,metrolink,interchange
+SALFORD CENTRAL,Victoria,railway,interchange
+PATRICROFT,Eccles,railway,interchange
+MOSTON,Victoria,railway,interchange
+SALFORD CRESCENT,Deansgate - Castlefield,railway,interchange
+STALYBRIDGE,Ashton-Under-Lyne,railway,interchange
+ARDWICK,Piccadilly,railway,interchange
+MANCHESTER OXFORD ROAD,Deansgate - Castlefield,railway,interchange
+LEVENSHULME,Piccadilly,railway,interchange
+GATLEY,East Didsbury,railway,interchange
+MAULDETH ROAD,Piccadilly,railway,interchange
+HALE,Altrincham,railway,interchange
+TRAFFORD PARK,Deansgate - Castlefield,railway,interchange
+Navigation Road,Timperley,metrolink,metrolink
+Deansgate - Castlefield,St Peter's Square,metrolink,metrolink
+Victoria,Monsall,metrolink,metrolink
+Victoria,Queens Road,metrolink,metrolink
+Piccadilly,New Islington,metrolink,metrolink
+Eccles,Ladywell,metrolink,metrolink
+East Didsbury,Didsbury Village,metrolink,metrolink
+Timperley,Brooklands,metrolink,metrolink
+Brooklands,Sale,metrolink,metrolink
+Sale,Dane Road,metrolink,metrolink
+Dane Road,Stretford,metrolink,metrolink
+Stretford,Old Trafford,metrolink,metrolink
+Old Trafford,Trafford Bar,metrolink,metrolink
+Trafford Bar,Cornbrook,metrolink,metrolink
+Monsall,Central Park,metrolink,metrolink
+Central Park,Newton Heath & Moston,metrolink,metrolink
+Newton Heath & Moston,Failsworth,metrolink,metrolink
+Failsworth,Hollinwood,metrolink,metrolink
+Hollinwood,South Chadderton,metrolink,metrolink
+South Chadderton,Freehold,metrolink,metrolink
+Freehold,Westwood,metrolink,metrolink
+Westwood,Oldham King Street,metrolink,metrolink
+Oldham King Street,Oldham Central,metrolink,metrolink
+Oldham Central,Oldham Mumps,metrolink,metrolink
+Oldham Mumps,Derker,metrolink,metrolink
+Derker,Shaw and Crompton,metrolink,metrolink
+Shaw and Crompton,Newhey,metrolink,metrolink
+Newhey,Milnrow,metrolink,metrolink
+Milnrow,Kingsway Business Park,metrolink,metrolink
+Kingsway Business Park,Newbold,metrolink,metrolink
+Newbold,Rochdale Railway Station,metrolink,interchange
+Queens Road,Abraham Moss,metrolink,metrolink
+Abraham Moss,Crumpsall,metrolink,metrolink
+Crumpsall,Bowker Vale,metrolink,metrolink
+Bowker Vale,Heaton Park,metrolink,metrolink
+Heaton Park,Prestwich,metrolink,metrolink
+Prestwich,Besses o'th'Barn,metrolink,metrolink
+Besses o'th'Barn,Whitefield,metrolink,metrolink
+Whitefield,Radcliffe,metrolink,metrolink
+Radcliffe,Bury,metrolink,metrolink
+St Peter's Square,Exchange Square,metrolink,metrolink
+St Peter's Square,Piccadilly Gardens,metrolink,metrolink
+New Islington,Holt Town,metrolink,metrolink
+Holt Town,Etihad Campus,metrolink,metrolink
+Etihad Campus,Velopark,metrolink,metrolink
+Velopark,Clayton Hall,metrolink,metrolink
+Clayton Hall,Edge Lane,metrolink,metrolink
+Edge Lane,Cemetery Road,metrolink,metrolink
+Cemetery Road,Droylsden,metrolink,metrolink
+Droylsden,Audenshaw,metrolink,metrolink
+Audenshaw,Ashton Moss,metrolink,metrolink
+Ashton Moss,Ashton West,metrolink,metrolink
+The Trafford Centre,Barton Dock Road,metrolink,metrolink
+Barton Dock Road,Parkway,metrolink,metrolink
+Parkway,Village,metrolink,metrolink
+Village,Imperial War Museum,metrolink,metrolink
+Imperial War Museum,Wharfside,metrolink,metrolink
+Wharfside,Pomona,metrolink,metrolink
+Pomona,Cornbrook,metrolink,metrolink
+Ladywell,Weaste,metrolink,metrolink
+Weaste,Langworthy,metrolink,metrolink
+Langworthy,Broadway,metrolink,metrolink
+Broadway,MediaCityUK,metrolink,metrolink
+MediaCityUK,Harbour City,metrolink,metrolink
+Broadway,Harbour City,metrolink,metrolink
+Harbour City,Anchorage,metrolink,metrolink
+Anchorage,Salford Quays,metrolink,metrolink
+Salford Quays,Exchange Quay,metrolink,metrolink
+Exchange Quay,Pomona,metrolink,metrolink
+Didsbury Village,West Didsbury,metrolink,metrolink
+West Didsbury,Burton Road,metrolink,metrolink
+Burton Road,Withington,metrolink,metrolink
+Withington,St Werburgh's Road,metrolink,metrolink
+St Werburgh's Road,Chorlton,metrolink,metrolink
+Chorlton,Firswood,metrolink,metrolink
+Firswood,Trafford Bar,metrolink,metrolink
+Shadowmoss,Peel Hall,metrolink,metrolink
+Peel Hall,Robinswood Road,metrolink,metrolink
+Robinswood Road,Wythenshawe Town Centre,metrolink,metrolink
+Wythenshawe Town Centre,Crossacres,metrolink,metrolink
+Crossacres,Benchill,metrolink,metrolink
+Benchill,Martinscroft,metrolink,metrolink
+Martinscroft,Roundthorn,metrolink,metrolink
+Roundthorn,Baguley,metrolink,metrolink
+Baguley,Moor Road,metrolink,metrolink
+Moor Road,Wythenshawe Park,metrolink,metrolink
+Wythenshawe Park,Northern Moor,metrolink,metrolink
+Northern Moor,Sale Water Park,metrolink,metrolink
+Sale Water Park,Barlow Moor Road,metrolink,metrolink
+Barlow Moor Road,St Werburgh's Road,metrolink,metrolink
+Market Street,Shudehill,railway,metrolink
+SMITHY BRIDGE,Rochdale Railway Station,railway,interchange
+Piccadilly,MANCHESTER OXFORD ROAD,railway,railway
+East Didsbury,BURNAGE,railway,railway
+Navigation Road,STOCKPORT,railway,railway
+St Peter's Square,Market Street,metrolink,railway
+Rochdale Railway Station,CASTLETON,railway,railway
+GATHURST,WIGAN WALLGATE,railway,railway
+WIGAN WALLGATE,INCE,railway,railway
+INCE,HINDLEY,railway,railway
+HINDLEY,DAISY HILL,railway,railway
+DAISY HILL,HAG FOLD,railway,railway
+HAG FOLD,ATHERTON,railway,railway
+ATHERTON,WALKDEN,railway,railway
+WALKDEN,MOORSIDE,railway,railway
+MOORSIDE,SWINTON,railway,railway
+SWINTON,SALFORD CRESCENT,railway,railway
+SALFORD CRESCENT,SALFORD CENTRAL,railway,railway
+HINDLEY,WESTHOUGHTON,railway,railway
+WESTHOUGHTON,BOLTON INTERCHANGE,railway,railway
+ORRELL,PEMBERTON,railway,railway
+PEMBERTON,WIGAN WALLGATE,railway,railway
+WIGAN NORTH WESTERN,INCE,railway,railway
+WIGAN NORTH WESTERN,BRYN,railway,railway
+WIGAN NORTH WESTERN,PATRICROFT,railway,railway
+BLACKROD,HORWICH PARKWAY,railway,railway
+HORWICH PARKWAY,LOSTOCK,railway,railway
+LOSTOCK,BOLTON INTERCHANGE,railway,railway
+BOLTON INTERCHANGE,MOSES GATE,railway,railway
+MOSES GATE,FARNWORTH,railway,railway
+FARNWORTH,KEARSLEY,railway,railway
+KEARSLEY,CLIFTON,railway,railway
+CLIFTON,SALFORD CRESCENT,railway,railway
+BROMLEY CROSS,HALL I'TH' WOOD,railway,railway
+HALL I'TH' WOOD,BOLTON INTERCHANGE,railway,railway
+LITTLEBOROUGH,SMITHY BRIDGE,railway,railway
+CASTLETON,MILLS HILL,railway,railway
+MILLS HILL,MOSTON,railway,railway
+GREENFIELD,MOSSLEY,railway,railway
+MOSSLEY,STALYBRIDGE,railway,railway
+STALYBRIDGE,GUIDE BRIDGE,railway,railway
+GUIDE BRIDGE,FAIRFIELD,railway,railway
+FAIRFIELD,GORTON,railway,railway
+GORTON,ASHBURYS,railway,railway
+ASHBURYS,ARDWICK,railway,railway
+GUIDE BRIDGE,REDDISH SOUTH,railway,railway
+REDDISH SOUTH,STOCKPORT,railway,railway
+BROADBOTTOM,HATTERSLEY,railway,railway
+HATTERSLEY,GODLEY,railway,railway
+GODLEY,NEWTON FOR HYDE,railway,railway
+NEWTON FOR HYDE,FLOWERY FIELD,railway,railway
+FLOWERY FIELD,GUIDE BRIDGE,railway,railway
+ROSE HILL,ROMILEY,railway,railway
+MARPLE,ROMILEY,railway,railway
+ROMILEY,WOODLEY,railway,railway
+WOODLEY,HYDE CENTRAL,railway,railway
+HYDE CENTRAL,HYDE NORTH,railway,railway
+HYDE NORTH,GUIDE BRIDGE,railway,railway
+ROMILEY,BREDBURY,railway,railway
+BREDBURY,BRINNINGTON,railway,railway
+BRINNINGTON,REDDISH NORTH,railway,railway
+REDDISH NORTH,RYDER BROW,railway,railway
+RYDER BROW,BELLE VUE,railway,railway
+BELLE VUE,ASHBURYS,railway,railway
+MIDDLEWOOD,HAZEL GROVE,railway,railway
+HAZEL GROVE,WOODSMOOR,railway,railway
+WOODSMOOR,DAVENPORT,railway,railway
+DAVENPORT,STOCKPORT,railway,railway
+STOCKPORT,HEATON CHAPEL,railway,railway
+HEATON CHAPEL,LEVENSHULME,railway,railway
+HEALD GREEN,GATLEY,railway,railway
+BURNAGE,MAULDETH ROAD,railway,railway
+IRLAM,FLIXTON,railway,railway
+FLIXTON,CHASSEN ROAD,railway,railway
+CHASSEN ROAD,URMSTON,railway,railway
+URMSTON,HUMPHREY PARK,railway,railway
+HUMPHREY PARK,TRAFFORD PARK,railway,railway
+BRAMHALL,CHEADLE HULME,railway,railway
+CHEADLE HULME,STOCKPORT,railway,railway

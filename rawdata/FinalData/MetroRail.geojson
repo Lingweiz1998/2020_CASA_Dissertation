@@ -1,0 +1,2095 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.347158,53.387668 ]
+    },
+    "properties": {
+    "NPTREF":"9100ALTRNHM",
+    "RSTNAM":"ALTRINCHAM INTERCHANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.213369,53.471206 ]
+    },
+    "properties": {
+    "NPTREF":"9100ARDWICK",
+    "RSTNAM":"ARDWICK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.194752,53.471867 ]
+    },
+    "properties": {
+    "NPTREF":"9100ASHBRYS",
+    "RSTNAM":"ASHBURYS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.094327,53.491279 ]
+    },
+    "properties": {
+    "NPTREF":"9100ASHONUL",
+    "RSTNAM":"ASHTON UNDER LYNE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.47799,53.529109 ]
+    },
+    "properties": {
+    "NPTREF":"9100ATHERTN",
+    "RSTNAM":"ATHERTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.215229,53.421964 ]
+    },
+    "properties": {
+    "NPTREF":"9100BAGE",
+    "RSTNAM":"BURNAGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.180187,53.461787 ]
+    },
+    "properties": {
+    "NPTREF":"9100BLLVUE",
+    "RSTNAM":"BELLE VUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.569805,53.591184 ]
+    },
+    "properties": {
+    "NPTREF":"9100BLRD",
+    "RSTNAM":"BLACKROD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.163021,53.360557 ]
+    },
+    "properties": {
+    "NPTREF":"9100BMHL",
+    "RSTNAM":"BRAMHALL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.425152,53.573558 ]
+    },
+    "properties": {
+    "NPTREF":"9100BOLTON",
+    "RSTNAM":"BOLTON INTERCHANGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.016625,53.440791 ]
+    },
+    "properties": {
+    "NPTREF":"9100BRBM",
+    "RSTNAM":"BROADBOTTOM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.110546,53.423069 ]
+    },
+    "properties": {
+    "NPTREF":"9100BREDBRY",
+    "RSTNAM":"BREDBURY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.41073,53.613984 ]
+    },
+    "properties": {
+    "NPTREF":"9100BRMCRSS",
+    "RSTNAM":"BROMLEY CROSS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.134094,53.431953 ]
+    },
+    "properties": {
+    "NPTREF":"9100BRNGTN",
+    "RSTNAM":"BRINNINGTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.647723,53.499644 ]
+    },
+    "properties": {
+    "NPTREF":"9100BRYN",
+    "RSTNAM":"BRYN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.368172,53.446192 ]
+    },
+    "properties": {
+    "NPTREF":"9100CHASNRD",
+    "RSTNAM":"CHASSEN ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.188078,53.376277 ]
+    },
+    "properties": {
+    "NPTREF":"9100CHDH",
+    "RSTNAM":"CHEADLE HULME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.313974,53.522246 ]
+    },
+    "properties": {
+    "NPTREF":"9100CLTN",
+    "RSTNAM":"CLIFTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.178128,53.592167 ]
+    },
+    "properties": {
+    "NPTREF":"9100CSTL",
+    "RSTNAM":"CASTLETON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.515317,53.539371 ]
+    },
+    "properties": {
+    "NPTREF":"9100DAISYH",
+    "RSTNAM":"DAISY HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15252,53.390889 ]
+    },
+    "properties": {
+    "NPTREF":"9100DAVNPRT",
+    "RSTNAM":"DAVENPORT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.131027,53.457223 ]
+    },
+    "properties": {
+    "NPTREF":"9100DNTON",
+    "RSTNAM":"DENTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.333354,53.485557 ]
+    },
+    "properties": {
+    "NPTREF":"9100ECCLES",
+    "RSTNAM":"ECCLES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.221995,53.409314 ]
+    },
+    "properties": {
+    "NPTREF":"9100EDIDBRY",
+    "RSTNAM":"EAST DIDSBURY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.383507,53.443788 ]
+    },
+    "properties": {
+    "NPTREF":"9100FLIXTON",
+    "RSTNAM":"FLIXTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.080239,53.461438 ]
+    },
+    "properties": {
+    "NPTREF":"9100FLWRYFD",
+    "RSTNAM":"FLOWERY FIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.14496,53.471309 ]
+    },
+    "properties": {
+    "NPTREF":"9100FRFD",
+    "RSTNAM":"FAIRFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.388273,53.55034 ]
+    },
+    "properties": {
+    "NPTREF":"9100FRNW",
+    "RSTNAM":"FARNWORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.694228,53.559507 ]
+    },
+    "properties": {
+    "NPTREF":"9100GATHRST",
+    "RSTNAM":"GATHURST"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.230828,53.392929 ]
+    },
+    "properties": {
+    "NPTREF":"9100GATLEY",
+    "RSTNAM":"GATLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.014067,53.538847 ]
+    },
+    "properties": {
+    "NPTREF":"9100GFLD",
+    "RSTNAM":"GREENFIELD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.113951,53.474552 ]
+    },
+    "properties": {
+    "NPTREF":"9100GIDB",
+    "RSTNAM":"GUIDE BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.055707,53.452266 ]
+    },
+    "properties": {
+    "NPTREF":"9100GODLY",
+    "RSTNAM":"GODLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.167217,53.469006 ]
+    },
+    "properties": {
+    "NPTREF":"9100GORTON",
+    "RSTNAM":"GORTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.493928,53.533592 ]
+    },
+    "properties": {
+    "NPTREF":"9100HAGFOLD",
+    "RSTNAM":"HAG FOLD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.347489,53.378516 ]
+    },
+    "properties": {
+    "NPTREF":"9100HALE",
+    "RSTNAM":"HALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.04034,53.44527 ]
+    },
+    "properties": {
+    "NPTREF":"9100HATRSLY",
+    "RSTNAM":"HATTERSLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.122726,53.377764 ]
+    },
+    "properties": {
+    "NPTREF":"9100HAZL",
+    "RSTNAM":"HAZEL GROVE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.575321,53.54236 ]
+    },
+    "properties": {
+    "NPTREF":"9100HINDLEY",
+    "RSTNAM":"HINDLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.413151,53.597221 ]
+    },
+    "properties": {
+    "NPTREF":"9100HITW",
+    "RSTNAM":"HALL I'TH' WOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.236696,53.369404 ]
+    },
+    "properties": {
+    "NPTREF":"9100HLDG",
+    "RSTNAM":"HEALD GREEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.327719,53.45227 ]
+    },
+    "properties": {
+    "NPTREF":"9100HMPHRYP",
+    "RSTNAM":"HUMPHREY PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.539483,53.578022 ]
+    },
+    "properties": {
+    "NPTREF":"9100HORWICH",
+    "RSTNAM":"HORWICH PARKWAY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.178995,53.425638 ]
+    },
+    "properties": {
+    "NPTREF":"9100HTCP",
+    "RSTNAM":"HEATON CHAPEL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.085083,53.451449 ]
+    },
+    "properties": {
+    "NPTREF":"9100HYDEC",
+    "RSTNAM":"HYDE CENTRAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.085125,53.464752 ]
+    },
+    "properties": {
+    "NPTREF":"9100HYDEN",
+    "RSTNAM":"HYDE NORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.612381,53.539065 ]
+    },
+    "properties": {
+    "NPTREF":"9100INCE",
+    "RSTNAM":"INCE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.432776,53.434227 ]
+    },
+    "properties": {
+    "NPTREF":"9100IRLAM",
+    "RSTNAM":"IRLAM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.375574,53.544575 ]
+    },
+    "properties": {
+    "NPTREF":"9100KEARSLY",
+    "RSTNAM":"KEARSLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.094544,53.642992 ]
+    },
+    "properties": {
+    "NPTREF":"9100LITLBRO",
+    "RSTNAM":"LITTLEBOROUGH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.4941,53.573033 ]
+    },
+    "properties": {
+    "NPTREF":"9100LOSTCKP",
+    "RSTNAM":"LOSTOCK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.192744,53.444384 ]
+    },
+    "properties": {
+    "NPTREF":"9100LVHM",
+    "RSTNAM":"LEVENSHULME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.057518,53.401012 ]
+    },
+    "properties": {
+    "NPTREF":"9100MARPLE",
+    "RSTNAM":"MARPLE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.083503,53.360081 ]
+    },
+    "properties": {
+    "NPTREF":"9100MDWD",
+    "RSTNAM":"MIDDLEWOOD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.208966,53.433508 ]
+    },
+    "properties": {
+    "NPTREF":"9100MLDTHRD",
+    "RSTNAM":"MAULDETH ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.171479,53.551064 ]
+    },
+    "properties": {
+    "NPTREF":"9100MLSHILL",
+    "RSTNAM":"MILLS HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.250996,53.474143 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCRDGT",
+    "RSTNAM":"DEANSGATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.272633,53.365093 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCRIAP",
+    "RSTNAM":"MANCHESTER AIRPORT RAIL STATION"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.242248,53.473785 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCROXR",
+    "RSTNAM":"MANCHESTER OXFORD ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.230484,53.477071 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCRPIC",
+    "RSTNAM":"MANCHESTER PICCADILLY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.290728,53.462199 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCRUFG",
+    "RSTNAM":"MANCHESTER UNITED FOOTBALL GROUND"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.242931,53.48794 ]
+    },
+    "properties": {
+    "NPTREF":"9100MNCRVIC",
+    "RSTNAM":"MANCHESTER VICTORIA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.041325,53.514922 ]
+    },
+    "properties": {
+    "NPTREF":"9100MOSSLEY",
+    "RSTNAM":"MOSSLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.35225,53.516333 ]
+    },
+    "properties": {
+    "NPTREF":"9100MRSD",
+    "RSTNAM":"MOORSIDE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.401339,53.556176 ]
+    },
+    "properties": {
+    "NPTREF":"9100MSGT",
+    "RSTNAM":"MOSES GATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.171021,53.523336 ]
+    },
+    "properties": {
+    "NPTREF":"9100MSTN",
+    "RSTNAM":"MOSTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.343329,53.395723 ]
+    },
+    "properties": {
+    "NPTREF":"9100NAVGTNR",
+    "RSTNAM":"NAVIGATION ROAD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.066947,53.456584 ]
+    },
+    "properties": {
+    "NPTREF":"9100NWTH",
+    "RSTNAM":"NEWTON FOR HYDE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.709182,53.530171 ]
+    },
+    "properties": {
+    "NPTREF":"9100ORRELL",
+    "RSTNAM":"ORRELL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.669857,53.530487 ]
+    },
+    "properties": {
+    "NPTREF":"9100PBRT",
+    "RSTNAM":"PEMBERTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.356857,53.484868 ]
+    },
+    "properties": {
+    "NPTREF":"9100PTRCRFT",
+    "RSTNAM":"PATRICROFT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.153522,53.610232 ]
+    },
+    "properties": {
+    "NPTREF":"9100RCHDALE",
+    "RSTNAM":"ROCHDALE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.156239,53.449543 ]
+    },
+    "properties": {
+    "NPTREF":"9100REDISHN",
+    "RSTNAM":"REDDISH NORTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.158507,53.436075 ]
+    },
+    "properties": {
+    "NPTREF":"9100REDISHS",
+    "RSTNAM":"REDDISH SOUTH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.076505,53.396022 ]
+    },
+    "properties": {
+    "NPTREF":"9100ROHL",
+    "RSTNAM":"ROSE HILL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.089325,53.414017 ]
+    },
+    "properties": {
+    "NPTREF":"9100ROMILEY",
+    "RSTNAM":"ROMILEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.173675,53.456836 ]
+    },
+    "properties": {
+    "NPTREF":"9100RYDRBRW",
+    "RSTNAM":"RYDER BROW"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.063328,53.484387 ]
+    },
+    "properties": {
+    "NPTREF":"9100SBYD",
+    "RSTNAM":"STALYBRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.275777,53.486485 ]
+    },
+    "properties": {
+    "NPTREF":"9100SLFDCT",
+    "RSTNAM":"SALFORD CRESCENT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.255545,53.482845 ]
+    },
+    "properties": {
+    "NPTREF":"9100SLFDORD",
+    "RSTNAM":"SALFORD CENTRAL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.113863,53.63298 ]
+    },
+    "properties": {
+    "NPTREF":"9100SMBG",
+    "RSTNAM":"SMITHY BRIDGE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.163057,53.405535 ]
+    },
+    "properties": {
+    "NPTREF":"9100STKP",
+    "RSTNAM":"STOCKPORT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.337082,53.514822 ]
+    },
+    "properties": {
+    "NPTREF":"9100SWNT",
+    "RSTNAM":"SWINTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.3117,53.454785 ]
+    },
+    "properties": {
+    "NPTREF":"9100TRFDPK",
+    "RSTNAM":"TRAFFORD PARK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.353796,53.448285 ]
+    },
+    "properties": {
+    "NPTREF":"9100URMSTON",
+    "RSTNAM":"URMSTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.396168,53.51979 ]
+    },
+    "properties": {
+    "NPTREF":"9100WALKDEN",
+    "RSTNAM":"WALKDEN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.633314,53.54336 ]
+    },
+    "properties": {
+    "NPTREF":"9100WIGANNW",
+    "RSTNAM":"WIGAN NORTH WESTERN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.633411,53.544833 ]
+    },
+    "properties": {
+    "NPTREF":"9100WIGANWL",
+    "RSTNAM":"WIGAN WALLGATE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.141558,53.386246 ]
+    },
+    "properties": {
+    "NPTREF":"9100WMOR",
+    "RSTNAM":"WOODSMOOR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.092804,53.429259 ]
+    },
+    "properties": {
+    "NPTREF":"9100WOODLEY",
+    "RSTNAM":"WOODLEY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.523141,53.555912 ]
+    },
+    "properties": {
+    "NPTREF":"9100WSTHOTN",
+    "RSTNAM":"WESTHOUGHTON"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.235415,53.510507 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAABM",
+    "RSTNAM":"Abraham Moss"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.272439,53.365336 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAAIR",
+    "RSTNAM":"Manchester Airport"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.347277,53.387452 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAALT",
+    "RSTNAM":"Altrincham"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.121992,53.483604 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAAMO",
+    "RSTNAM":"Ashton Moss"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.28602,53.474309 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAANC",
+    "RSTNAM":"Anchorage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.131092,53.478211 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAAUD",
+    "RSTNAM":"Audenshaw"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.098032,53.490341 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAAUL",
+    "RSTNAM":"Ashton-Under-Lyne"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.109727,53.490241 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAAWT",
+    "RSTNAM":"Ashton West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.292521,53.396533 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABAG",
+    "RSTNAM":"Baguley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.26935,53.43283 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABAR",
+    "RSTNAM":"Barlow Moor Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.326109,53.417102 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABKS",
+    "RSTNAM":"Brooklands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.256221,53.387088 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABLL",
+    "RSTNAM":"Benchill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.240701,53.429196 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABNR",
+    "RSTNAM":"Burton Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.286067,53.541946 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABOB",
+    "RSTNAM":"Besses o'th'Barn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.249976,53.524949 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABOW",
+    "RSTNAM":"Bowker Vale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.297109,53.590923 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABUR",
+    "RSTNAM":"Bury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.294957,53.474836 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMABWY",
+    "RSTNAM":"Broadway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.15501,53.479863 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACEM",
+    "RSTNAM":"Cemetery Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.273433,53.442852 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACHO",
+    "RSTNAM":"Chorlton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.182159,53.482799 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACLN",
+    "RSTNAM":"Clayton Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.267581,53.469992 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACRN",
+    "RSTNAM":"Cornbrook"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.241063,53.517345 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACRU",
+    "RSTNAM":"Crumpsall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.256259,53.383376 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACSS",
+    "RSTNAM":"Crossacres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.19923,53.501621 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMACTP",
+    "RSTNAM":"Central Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.101624,53.549823 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMADER",
+    "RSTNAM":"Derker"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.228564,53.416743 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMADID",
+    "RSTNAM":"Didsbury Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.311326,53.43031 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMADNE",
+    "RSTNAM":"Dane Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.144672,53.479453 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMADRO",
+    "RSTNAM":"Droylsden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.334584,53.482893 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAECC",
+    "RSTNAM":"Eccles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.201339,53.485375 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAECS",
+    "RSTNAM":"Etihad Campus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.217255,53.412055 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAEDY",
+    "RSTNAM":"East Didsbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.16523,53.480865 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAELN",
+    "RSTNAM":"Edge Lane"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.341982,53.465714 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAEVC",
+    "RSTNAM":"Barton Dock Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.282315,53.467837 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAEXC",
+    "RSTNAM":"Exchange Quay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.24267,53.484471 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAEXS",
+    "RSTNAM":"Exchange Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.277719,53.451291 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAFIR",
+    "RSTNAM":"Firswood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.13817,53.537616 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAFRE",
+    "RSTNAM":"Freehold"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.162932,53.510619 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAFWH",
+    "RSTNAM":"Failsworth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.251098,53.474747 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAGMX",
+    "RSTNAM":"Deansgate - Castlefield"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.291321,53.474027 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAHCY",
+    "RSTNAM":"Harbour City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.267177,53.530494 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAHEA",
+    "RSTNAM":"Heaton Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.147494,53.519844 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAHOL",
+    "RSTNAM":"Hollinwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.212194,53.483217 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAHTN",
+    "RSTNAM":"Holt Town"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.296767,53.468585 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAIWM",
+    "RSTNAM":"Imperial War Museum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.123855,53.61112 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAKNY",
+    "RSTNAM":"Kingsway Business Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.326757,53.483993 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMALDY",
+    "RSTNAM":"Ladywell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.295962,53.480613 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMALWY",
+    "RSTNAM":"Langworthy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.296883,53.472278 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMCU",
+    "RSTNAM":"MediaCityUK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.279828,53.39188 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMFT",
+    "RSTNAM":"Martinscroft"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.112088,53.608112 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMIL",
+    "RSTNAM":"Milnrow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.238783,53.481917 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMKT",
+    "RSTNAM":"Market Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.210685,53.50108 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMON",
+    "RSTNAM":"Monsall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.295201,53.403421 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAMRD",
+    "RSTNAM":"Moor Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.343329,53.395723 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANAV",
+    "RSTNAM":"Navigation Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.135516,53.613381 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANBD",
+    "RSTNAM":"Newbold"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.184648,53.504125 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANEW",
+    "RSTNAM":"Newton Heath & Moston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.094857,53.600864 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANHY",
+    "RSTNAM":"Newhey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.219777,53.481082 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANIS",
+    "RSTNAM":"New Islington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.288222,53.41453 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMANMR",
+    "RSTNAM":"Northern Moor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.117187,53.539571 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAOKS",
+    "RSTNAM":"Oldham King Street"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.284559,53.456435 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAOLD",
+    "RSTNAM":"Old Trafford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.112179,53.540277 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAOMC",
+    "RSTNAM":"Oldham Central"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.103433,53.542406 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAOMP",
+    "RSTNAM":"Oldham Mumps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.309081,53.46735 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPAR",
+    "RSTNAM":"Parkway"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23686,53.480222 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPGD",
+    "RSTNAM":"Piccadilly Gardens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.230952,53.477214 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPIC",
+    "RSTNAM":"Piccadilly"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.250413,53.373708 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPLL",
+    "RSTNAM":"Peel Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.275137,53.466578 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPOM",
+    "RSTNAM":"Pomona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.281981,53.533372 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAPWC",
+    "RSTNAM":"Prestwich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.226653,53.501707 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAQRD",
+    "RSTNAM":"Queens Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.321003,53.562305 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMARAD",
+    "RSTNAM":"Radcliffe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.155317,53.61733 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMARIN",
+    "RSTNAM":"Rochdale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.289155,53.392604 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMARND",
+    "RSTNAM":"Roundthorn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.154447,53.611021 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMARRS",
+    "RSTNAM":"Rochdale Railway Station"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.25853,53.376315 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMARWD",
+    "RSTNAM":"Robinswood Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.145269,53.526516 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASCH",
+    "RSTNAM":"South Chadderton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.252511,53.367573 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASDW",
+    "RSTNAM":"Shadowmoss"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.303793,53.446086 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASFD",
+    "RSTNAM":"Stretford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.089546,53.576159 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASHA",
+    "RSTNAM":"Shaw and Crompton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.23908,53.48529 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASHU",
+    "RSTNAM":"Shudehill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.318852,53.424438 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASLE",
+    "RSTNAM":"Sale"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.283974,53.470359 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASQY",
+    "RSTNAM":"Salford Quays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.243117,53.478215 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASTP",
+    "RSTNAM":"St Peter's Square"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.265428,53.438717 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASTW",
+    "RSTNAM":"St Werburgh's Road"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.290828,53.428231 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMASWP",
+    "RSTNAM":"Sale Water Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.338256,53.40452 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMATIM",
+    "RSTNAM":"Timperley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.277049,53.461845 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMATRA",
+    "RSTNAM":"Trafford Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.347799,53.467899 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMATRC",
+    "RSTNAM":"intu Trafford Centre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.241948,53.487394 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAVIC",
+    "RSTNAM":"Victoria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.309066,53.467395 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAVLG",
+    "RSTNAM":"Village"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.193022,53.482279 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAVPK",
+    "RSTNAM":"Velopark"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.295261,53.551227 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWFD",
+    "RSTNAM":"Whitefield"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.287502,53.466217 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWFS",
+    "RSTNAM":"Wharfside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.249407,53.43281 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWIT",
+    "RSTNAM":"Withington"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.295666,53.407671 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWPK",
+    "RSTNAM":"Wythenshawe Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.308,53.482488 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWST",
+    "RSTNAM":"Weaste"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.236039,53.424477 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWTD",
+    "RSTNAM":"West Didsbury"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.125871,53.542321 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWWD",
+    "RSTNAM":"Westwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.263755,53.380025 ]
+    },
+    "properties": {
+    "NPTREF":"9400ZZMAWYT",
+    "RSTNAM":"Wythenshawe Town Centre"
+    }
+  }
+]
+}
