@@ -28,8 +28,8 @@ mf_map(
   cex=1.5,
   leg_pos = "topright", 
   leg_title = "Cluster Distribution",
-  val_order = c("Cluster 1", "Cluster 2","Cluster 3", 
-                "Cluster 4"),add=TRUE)
+  val_order = c("Cluster4", "Cluster3","Cluster2", 
+                "Cluster1"),add=TRUE)
 # layout
 mf_layout(title = "Train System in Greater Manchester", 
           credits = paste0("Sources: TFGM, 2021\n",
@@ -47,14 +47,14 @@ mf_map(edge,col = "white", lwd = 2,add = TRUE)
 # Plot symbols with choropleth coloration
 mf_map(
   x = node, 
-  var = "greenspace", 
+  var = "cc", 
   type = "choro",
-  pal = "BuGn",
+  pal = "OrRd",
   cex=1.5,
   leg_pos = "topright", 
-  leg_title = "Greenspace Ratio", add=TRUE)
+  leg_title = "Closeness Centrality", add=TRUE)
 # layout
-mf_layout(title = "GM Station Area Greenspace Ratio", 
+mf_layout(title = "GM Station Closeness Centrality", 
           credits = paste0("Sources: TFGM, 2021\n",
                            "mapsf ", 
                            packageVersion("mapsf")), 
